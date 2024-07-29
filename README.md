@@ -1,0 +1,1 @@
+# This is a Modern, responsive card designed using HTML and CSS featuring a clean layout and vibrant colors. Perfect for showcasing products, profiles, or services in a sleek, professional manne in websites
